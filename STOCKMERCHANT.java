@@ -4,7 +4,7 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
-public class STOCKMERCHANT {
+public class EqualiseArray {
 
     public static void main(String[] args) {
         int n = 78;
